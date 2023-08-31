@@ -1,2 +1,2 @@
 #!/bin/bash
-sasa
+chown -from=guillaume betty hello 
