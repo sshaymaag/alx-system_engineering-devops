@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 shaymaag shaymaag 4096 Sep  4 23:10 .
+drwxr-xr-x 6 shaymaag shaymaag 4096 Sep  4 13:55 ..
+-rwxr--r-- 1 shaymaag shaymaag   32 Sep  4 13:57 0-hello_world
+-rwxr--r-- 1 shaymaag shaymaag   28 Sep  4 14:00 1-confused_smiley
+-rwxr--r-- 1 shaymaag shaymaag   28 Sep  4 14:52 2-hellofile
+-rwxr--r-- 1 shaymaag shaymaag   39 Sep  4 14:53 3-twofiles
+-rwxr--r-- 1 shaymaag shaymaag   35 Sep  4 14:55 4-lastlines
+-rwxr--r-- 1 shaymaag shaymaag   35 Sep  4 15:07 5-firstlines
+-rwxr--r-- 1 shaymaag shaymaag   40 Sep  4 15:12 6-third_line
+-rwxr--r-- 1 shaymaag shaymaag   78 Sep  4 23:03 7-file
+-rwxr--r-- 1 shaymaag shaymaag   36 Sep  4 23:10 8-cwd_state
+-rwxr--r-- 1 shaymaag shaymaag    7 Sep  4 13:56 README.md
+-rwxr--r-- 1 shaymaag shaymaag   48 Sep  4 14:01 git
+-rw-r--r-- 1 shaymaag shaymaag    0 Sep  4 23:10 ls_cwd_content
