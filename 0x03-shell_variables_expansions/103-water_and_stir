@@ -1,2 +1,2 @@
 #!/bin/bash
-python -c "print(int('$WATER', base=8) + int('$STIR', base=5))"
+WATER="water$WATER" && STIR="stir$STIR" && result=$((#bestchol${WATER#water} + ${STIR#stir}))
